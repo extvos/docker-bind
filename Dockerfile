@@ -1,5 +1,5 @@
-FROM sameersbn/ubuntu:14.04.20151213
-MAINTAINER sameer@damagehead.com
+FROM extvos/debian
+MAINTAINER archsh@gmail.com
 
 ENV DATA_DIR=/data \
     BIND_USER=bind \
